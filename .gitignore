@@ -1,0 +1,7 @@
+/app/config.php
+/storage/*
+!/storage/.gitkeep
+!/storage/.htaccess
+*.backup.sql
+/database/backups/
+/.tests-runtime/
